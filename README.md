@@ -1,4 +1,10 @@
-[![CircleCI](https://circleci.com/gh/springframeworkguru/tsbb2b-sfg-brewery.svg?style=svg)](https://circleci.com/gh/springframeworkguru/tsbb2b-sfg-brewery)
+[![CircleCI](https://circleci.com/gh/scott-gibson-se/tsbb2b-sfg-brewery.svg?style=svg)](https://circleci.com/gh/scott-gibson-se/tsbb2b-sfg-brewery)
+
+# ESG Notes
+
+I started working in the brewery branch up through lessons that produced branch order-controller-assn.  
+Before starting on the wiremock items the brewery branch was merged into master and work from done
+in master after that.
 
 # Testing Spring Boot B2G - SFG Brewery
 
