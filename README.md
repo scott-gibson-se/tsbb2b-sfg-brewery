@@ -3,7 +3,7 @@
 # ESG Notes
 
 I started working in the brewery branch up through lessons that produced branch order-controller-assn.  
-Before starting on the wiremock items the brewery branch was merged into master and work from done
+Before starting on the wiremock items the brewery branch was merged into master and work is done
 in master after that.
 
 # Testing Spring Boot B2G - SFG Brewery
